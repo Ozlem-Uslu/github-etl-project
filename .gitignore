@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 Notieren.docx
+github_repos.csv
+main.py
